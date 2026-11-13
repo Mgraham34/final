@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Every Left-Handed Fastball in 2025",
+    "section": "",
+    "text": "This site tracks 107,324 fastball-family pitches (4-Seam Fastball, Sinker, and Cutter) thrown by left-handed MLB pitchers during the 2025 season (source: MLB Statcast via Baseball Savant). Pitches put in play are counted as Strikes."
+  },
+  {
+    "objectID": "index.html#movement-velocity-spin-rate-and-outcome",
+    "href": "index.html#movement-velocity-spin-rate-and-outcome",
+    "title": "Every Left-Handed Fastball in 2025",
+    "section": "Movement, Velocity, Spin Rate, and Outcome",
+    "text": "Movement, Velocity, Spin Rate, and Outcome\nEach point below is a single 2025 pitch from a left-handed pitcher (catcher’s perspective: positive horizontal break runs arm-side toward a right-handed batter; negative cuts glove-side). Color shows velocity (mph), point size reflects spin rate (RPM), and panels split Balls vs. Strikes across each fastball type."
+  },
+  {
+    "objectID": "index.html#spin-rate-vs.-velocity-by-ballstrike-outcome",
+    "href": "index.html#spin-rate-vs.-velocity-by-ballstrike-outcome",
+    "title": "Every Left-Handed Fastball in 2025",
+    "section": "Spin Rate vs. Velocity by Ball/Strike Outcome",
+    "text": "Spin Rate vs. Velocity by Ball/Strike Outcome\nTo make spin rate and velocity easy to read directly for every pitch, this second chart plots release velocity (mph) against spin rate (RPM) across all three left-handed fastball types."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
